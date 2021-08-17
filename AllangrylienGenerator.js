@@ -81,31 +81,6 @@ randomMouth[15] = "images/mouth/mouth-16.svg"
 // var angryAliens = {col: value1, bg: value2, eye: value3, mouth: value4};
 
 var angryLiensConstructor = [];
-//
-// for (var i = 0; i < randomColor.length; i++) {
-//
-//     var myColor = randomColor[i];
-//
-//     for (var j = 0; j < randomBG.length; j++) {
-//
-//       var myBGColor = randomBG[j];
-//
-//       for (var k = 0; k < randomEyes.length; k++) {
-//
-//         var myEyes = randomEyes[k];
-//
-//         for (var l = 0; l < randomMouth.length; l++) {
-//           var myMouth = randomMouth[l];
-//
-//           var mySingleAngrylien = {color: randomColor[i], bgColor: randomBG[j], eyes: randomEyes[k], mouth: randomMouth[l]};
-//
-//         }
-//       }
-//
-//       angryLiensConstructor.push(mySingleAngrylien);
-//     }
-//
-// }
 
 for (var i = 0; i < randomEyes.length; i++) {
 
